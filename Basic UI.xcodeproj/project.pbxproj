@@ -414,7 +414,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Basic UI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.techinologic.Basic-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = com.techinologic.nameOfDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -426,7 +426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Basic UI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.techinologic.Basic-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = com.techinologic.nameOfDay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -505,6 +505,7 @@
 				52D02D161EE6E5630079BA40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52D02D171EE6E5630079BA40 /* Build configuration list for PBXNativeTarget "Basic UITests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				52D02D191EE6E5630079BA40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52D02D1A1EE6E5630079BA40 /* Build configuration list for PBXNativeTarget "Basic UIUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				52D02D1C1EE6E5630079BA40 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
